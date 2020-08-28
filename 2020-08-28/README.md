@@ -14,4 +14,4 @@ For the sheet:
 
 The difference in area happens to be almost exactly the same as the area of Liechtenstein, according to Wikipedia.
 
-For the **Riddler Classic**, we are asked how many games of War you expect to play before you encounter a game that is finished in exactly 26 turns/draws. Please refer to the notebook for a both an analytic derivation of the solution (about 162 million games!), and for a computational confirmation of our analytic derivation.
+For the **Riddler Classic**, we are asked how many games of War you expect to play before you encounter a game that is finished in exactly 26 turns/draws. Please refer to the notebook for both an analytic derivation of the solution (about 162 million games!), and for a computational confirmation of our analytic derivation.
