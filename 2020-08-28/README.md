@@ -1,4 +1,4 @@
-# [August 28, 2020](https://fivethirtyeight.com/features/https://fivethirtyeight.com/features/can-you-cover-the-globe/)
+# [August 28, 2020](https://fivethirtyeight.com/features/can-you-cover-the-globe/)
 
 This week's Riddler Express is a simple problem: if the world were covered by a sheet, how much area would you have to add in order to have the sheet raised 1 meter above the ground?
 
