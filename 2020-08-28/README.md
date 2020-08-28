@@ -2,7 +2,7 @@
 
 This week's **Riddler Express** is a simple problem: if the world were covered by a sheet, how much area would you have to add in order to have the sheet raised 1 meter above the ground?
 
-This is a slightly different take on the more common problem of a rope around the Earth, and how much length you have to add to raise it by 1 meter. Both cases are quite simple. In each case, you can simply find the difference between the area/circumference with a radius of $r+1$ and a radius of $r$.
+This is a slightly different take on the more common problem of a rope around the Earth, and how much length you have to add to raise it by 1 meter. Both cases are quite simple. In each case, you can simply find the difference between the area/circumference with a radius of r+1 and a radius of r.
 
 For the rope:
 
