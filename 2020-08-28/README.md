@@ -6,7 +6,7 @@ This is a slightly different take on the more common problem of a rope around th
 
 For the rope:
 
-![equation](https://latex.codecogs.com/gif.latex?r_1%20-%20r_0%20%3D%202%5Cpi%5C%2C%28r&plus;1%29-2%5Cpi%5C%2Cr%20%3D2%5Cpi%20%5Capprox%206.28%5C%2C%5Cmathrm%7Bm%7D%5E2)
+![equation](https://latex.codecogs.com/gif.latex?r_1%20-%20r_0%20%3D%202%5Cpi%5C%2C%28r&plus;1%29%20-%202%5Cpi%5C%2Cr%20%3D%202%5Cpi%20%5Capprox%206.28%5C%2C%20m)
 
 For the sheet:
 
